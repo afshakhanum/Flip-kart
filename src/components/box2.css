@@ -1,0 +1,20 @@
+*{
+    box-sizing: border-box;
+    margin: 0px;
+    padding: 0px;
+}
+.box22{
+    display: none;
+}
+@media screen and (min-width:1000px){
+    .box22{
+        display: inline;
+        width: 330px;
+        height: 100px;
+        padding: 10px;
+    }
+    .img22{
+        width: 300px;
+        height: 100px;
+    }
+}

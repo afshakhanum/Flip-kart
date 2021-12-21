@@ -1,0 +1,28 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+.box33{
+    display: none;
+}
+@media screen and (min-width:1000px){
+    .box33{
+        display: inline;
+    }
+    .imges{
+        width: 150px;
+        height: 150px;
+    }  
+    .cap1{
+        font-size: 12px;
+    }
+    .cap2{
+        color: green;
+        font-size: 16px;
+    }
+    .cap3{
+        font-size: 13px;
+        color: gray;
+    }
+}
