@@ -31,15 +31,21 @@
 }
 .bell{
     color: white;
-    position: relative;
+    /* position: relative;
     top: -10px;
-    right: -90px;
+    right: -90px; */
+    float: right;
+    margin-top: 10px;
+    padding: auto;
 }
 .cart{
     color: white;
-    position: relative;
+    float: right;
+    margin-top: 10px;
+    padding: auto;
+    /* position: relative;
     top: -10px;
-    right: -100px;
+    right: -100px; */
 }
 .search{
     color: #0076ef;
